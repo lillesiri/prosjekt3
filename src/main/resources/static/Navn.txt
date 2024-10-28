@@ -1,0 +1,32 @@
+101 - 101
+103 - 103
+104 - 104
+Aasen - 201
+Al-Azkari - 301
+Bartholdsen - 401
+Collett - 501
+102 Dubois - 102
+Eide - 330
+Hagen - 450
+Hamid - 250
+301 Hansen - 640
+Dahl - 302
+6 De Reuter - 445
+Fjeldstad - 506
+Hoel Hovden - 246
+Hovland - 357
+Ibsen - 468
+Isnes - 579
+Ivanov - 687
+Jakobsen - 003
+Kristiansen - 206
+Nguyen - 605
+Patel - 333
+Pedersen - 425
+Raa - 602
+Raja - 408
+Rasmussen - 403
+12 Skedsmo - 605
+Smith - 506
+Tajik - 704
+Ås - 260
