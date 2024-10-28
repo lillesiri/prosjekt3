@@ -1,7 +1,7 @@
 let opplyst;
 let neste;
 let forrige = -1;
-let liste = ["Hansen", "Jensen", "Olsen", "Nilsen", "Raa", "Isnes", "Maktabi"];
+let liste = ["101", "103", "104", "Aasen", "Al-Azkari", "Bartholdsen", "Collett", "102 Dubois", "Eide", "Hagen", "Hamid", "301 Hansen", "Dahl", "6 De Reuter", "Fjeldstad", "Hoel Hovden", "Hovland", "Ibsen", "Isnes", "Ivanov", "Jakobsen", "Kristiansen", "Nguyen", "Patel", "Pedersen", "Raa", "Raja", "Rasmussen", "12 Skedsmo", "Smith", "Tajik", "Ås"];
 
 function lysOpp() {
     $("#l1").html(liste[0]);
